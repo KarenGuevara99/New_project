@@ -1,0 +1,14 @@
+Pagina principal:	http://localhost/New_Project/index.php
+
+Pagina clientes:	http://localhost/New_Project/clientes.php
+
+Pagina operarios:	http://localhost/New_Project/operarios.php
+
+				http://localhost/New_Project/b_clientes.php
+				http://localhost/New_Project/b_servicio.php
+				http://localhost/New_Project/n_servicio.php
+
+Pagina Admin.:		http://localhost/New_Project/admin.php
+
+				http://localhost/New_Project/admin_vehiculos.php
+				http://localhost/New_Project/admin_clientes.php
